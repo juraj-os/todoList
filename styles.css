@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  font-size: 2.5rem;
+  font-size: 250%;
 }
 
 header,
@@ -26,7 +26,7 @@ form {
 form input,
 form button {
   padding: 0.5rem;
-  font-size: 2rem;
+  font-size: 200%;
   border: none;
   background: white;
 }
